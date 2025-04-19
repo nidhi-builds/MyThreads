@@ -1,4 +1,4 @@
-class Main {
+class Main { 
     public static void main(String[] args) {
     // Creating threads properly
     Thread t1 = new Thread(new MyThread(1, 3, 3000));
